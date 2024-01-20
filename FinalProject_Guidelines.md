@@ -20,7 +20,7 @@
 
 ## Project Overview 
 
-The COGS 108 Final Project will give you the chance to explore a topic of your choice and to expand your analytical skills. By working with real data of your choosing you can examine questions of particular interest to you. 
+The COGS 108 Final Project will give you the chance to explore a topic of your choice & to expand your analytical skills. By working with real data of your choosing you can examine questions of particular interest to you. 
 
 The broad objectives for the project are to: 
 
